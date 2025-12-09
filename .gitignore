@@ -1,6 +1,23 @@
-```txt
-venv/
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Data / DB
 *.db
+*.sqlite3
 *.csv
-.env
+
+# OS
+.DS_Store
+Thumbs.db
