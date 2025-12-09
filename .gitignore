@@ -1,0 +1,6 @@
+```txt
+venv/
+__pycache__/
+*.db
+*.csv
+.env
