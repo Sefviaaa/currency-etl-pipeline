@@ -1,4 +1,2 @@
 requests
 pandas
-sqlite3
-logging
